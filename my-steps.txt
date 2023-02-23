@@ -1,0 +1,132 @@
+### Step 2A
+
+/Users/Vinayjoshi
+
+
+### Step 2B
+Cd desktop
+
+
+### Step 2C
+
+Cd  unit1-git-practice
+
+
+### Step 2D
+
+(base) Vinayojoshi@nirmalas-MacBook-Air unit1-git-practiceVinay
+
+### Step 2E
+
+ls
+
+### Step 2F
+
+my-steps.txt
+
+### Step 2G
+
+cd ~
+### Step 2H
+
+/Users/vinayjoshi
+
+### Step 2I
+
+List of files
+Applications	Volumes		etc		sbin
+Library		bin		home		tmp
+System		cores		opt		usr
+Users		dev		private		var
+
+### Step 2J
+cd ~
+
+### Step 2K
+
+cd desktop
+cd unit1-git-practice
+
+### Step 3A
+mkdir veggies
+mkdir meat
+mkdir desserts
+
+### Step 3B
+
+mv dessert sweet
+
+### Step 3C
+
+mkdir protein
+
+### Step 3D
+
+
+mv meat protein
+
+### Step 3E
+
+
+cd veggies
+touch carrot.txt
+touch pea.txt
+
+### Step 3F
+
+cd .. 
+cd sweet
+touch cookies.txt
+
+### Step 3G
+
+mv  cookies.txt donut.txt 
+
+### Step 3H
+Cd..
+
+touch thing.txt
+
+### Step 3I
+Cp thing.txt tofu.txt
+
+### Step 3J
+
+mv tofu.txt  /Users/vinayjoshi/Desktop/unit1-git-practice/protein/tofu.txt 
+### Step 3K
+
+ cp thing.txt  crab.txt
+ mv crab.xt /Users/vinay/Desktop/unit1-git-practice/protein/meat/crab.txt 
+
+### Step 3L
+
+
+rm thing.txt
+
+### Step 3M
+
+ 
+ Cp -R veggies plants 
+
+### Step 3N
+
+Mkdir drinks
+Rmdir drinks
+
+### Step 4
+
+git init
+git add .
+git commit -m "first commit"
+
+git remote add origin https://github.com/nirmalaJ21/First_Project_GC.git
+git branch -M main
+git push -u origin main
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
